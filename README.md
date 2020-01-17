@@ -1,7 +1,6 @@
 # lab02-Pinkaban
-* TODO: Correct the links to the javadoc and repo below, then delete this TODO
 
-Javadoc: https://ucsb-cs56-w20.github.io/STARTER-lab02
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-Pinkaban
 Repo: https://ucsb-cs56-w20/lab02-Pinkaban/
 
 # About this repo
